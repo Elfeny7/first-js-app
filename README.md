@@ -64,5 +64,25 @@ tsconfig.json: File ini berisi konfigurasi untuk TypeScript, superset dari JavaS
 ### 4. Jalankan 'npm run dev' pada terminal lalu buka
 ![gambar3](img/4.png)
 
+### Soal 3
+
+Next Js tidak perlu mereload halaman untuk melihat perubahan karena memiliki fitur berikut:
+
+1. Hot Module Replacement (HMR)
+
+HMR memungkinkan Anda untuk melihat perubahan pada kode Anda secara real-time tanpa perlu memuat ulang seluruh halaman. Ketika Anda mengubah kode, HMR hanya memuat ulang modul yang diubah, sehingga sisa halaman tidak terpengaruh.
+
+2. Server-Side Rendering (SSR)
+
+SSR memungkinkan Next.js untuk merender HTML, CSS, dan JavaScript di server sebelum dikirim ke browser. Hal ini berarti bahwa browser tidak perlu merender seluruh halaman dari awal, yang dapat mempercepat waktu loading.
+
+3. Static Site Generation (SSG)
+
+SSG memungkinkan Next.js untuk membuat situs web statis yang dapat dihosting di CDN (Content Delivery Network). CDN adalah jaringan server yang didistribusikan di seluruh dunia, yang dapat membantu meningkatkan performa dan skalabilitas situs web.
+
+4. Automatic Code Splitting
+
+Next.js secara otomatis membagi kode aplikasi Anda menjadi beberapa bundle yang terpisah. Hal ini memungkinkan browser untuk hanya memuat kode yang diperlukan untuk halaman yang sedang ditampilkan, yang dapat meningkatkan performa dan menghemat bandwidth.
+
 # Tugas Praktikum
 
