@@ -86,3 +86,26 @@ Next.js secara otomatis membagi kode aplikasi Anda menjadi beberapa bundle yang 
 
 # Tugas Praktikum
 
+# Remix
+
+### Berikut adalah tampilan isi project dari remix
+
+![](img/remix1.png)
+
+### Berikut adalah tampilan awal remix project
+
+![](img/remix2.png)
+
+### Remix terlihat lebih simpel dan lebih ringan. Folder dalam project juga lebih sedikit daripada next.js untuk performa masih belum bisa dibuktikan
+
+# Gatsby
+
+### Berikut adalah tampilan isi project dari gatsby
+
+![](img/gatsby2.png)
+
+### Berikut adalah tampilan awal gatsby project
+
+![](img/gatsby1.png)
+
+### Gatsby terlihat lebih kompleks dalam instalasi karena harus menginstal gatsby cli. Gatsby terlihat hampir sama dengan remix yang minim file dan lebih sederhana, tetapi tampilan lebih simpel remix dan saya percaya bahwa remix lebih ringan.
