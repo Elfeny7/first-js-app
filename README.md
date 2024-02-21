@@ -108,4 +108,4 @@ Next.js secara otomatis membagi kode aplikasi Anda menjadi beberapa bundle yang 
 
 ![](img/gatsby1.png)
 
-### Gatsby terlihat lebih kompleks dalam instalasi karena harus menginstal gatsby cli. Gatsby terlihat hampir sama dengan remix yang minim file dan lebih sederhana, tetapi tampilan lebih simpel remix dan saya percaya bahwa remix lebih ringan.
+### Gatsby terlihat lebih kompleks dalam instalasi karena harus menginstal gatsby cli. Gatsby terlihat hampir sama dengan remix yang minim file dan lebih sederhana, tetapi tampilan lebih simpel remix dan saya percaya bahwa remix lebih ringan. css dari gatsby juga jadi satu dengan index tsx.
